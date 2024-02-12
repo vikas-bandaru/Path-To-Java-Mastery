@@ -33,7 +33,7 @@ This project is open source and available under the [LICENSE NAME] license.
 ## Acknowledgments
 
 - Thanks to all the contributors who have helped grow and improve this repository.
-- Special thanks to Robin for his support and resources.
+- Special thanks to [my friends] for their support and resources.
 
 Start your Java learning journey today and see how far you can go!
 
