@@ -1,6 +1,6 @@
-# Path-To-Java-Mastery
+# Path To Java Mastery
 
-Welcome to Path-To-Java-Mastery, a comprehensive guide to learning Java through a series of increasingly challenging problems. Whether you're new to programming or looking to sharpen your Java skills, this repository offers a structured path to mastering the language.
+Welcome to Path To Java Mastery, a comprehensive guide to learning Java through a series of increasingly challenging problems. Whether you're new to programming or looking to sharpen your Java skills, this repository offers a structured path to mastering the language.
 
 ## What You Will Learn
 
