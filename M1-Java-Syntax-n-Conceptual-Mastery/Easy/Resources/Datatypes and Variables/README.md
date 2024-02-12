@@ -60,48 +60,48 @@ In Java, there are two main data type categories: primitive and reference.
 ### Exercises
 
 1. **Declare and Initialize**
-  Declare and initialize variables for each of the following data types: `int`, `double`, `boolean`, and `String`. Then, print each variable to the console.
+   Declare and initialize variables for each of the following data types: `int`, `double`, `boolean`, and `String`. Then, print each variable to the console.
 
-  ```java
-  int population = 1000000;
-  double temperature = 36.5;
-  boolean isRaining = false;
-  String cityName = "Metropolis";
-  ```
+   ```java
+   int population = 1000000;
+   double temperature = 36.5;
+   boolean isRaining = false;
+   String cityName = "Metropolis";
+   ```
 
 2. **Printing Variables**
-  Using the variables from the previous exercise, write a program that prints a sentence incorporating all the variables, like so:
+   Using the variables from the previous exercise, write a program that prints a sentence incorporating all the variables, like so:
 
-  ```java
-  System.out.println("The city of " + cityName + " has a population of " + population + ". The current temperature is " + temperature + " degrees Celsius. Is it raining? " + isRaining);
-  ```
-  Output:
-  ```
-  The Car has 4 wheels.
-  ```
+   ```java
+   System.out.println("The city of " + cityName + " has a population of " + population + ". The current temperature is " + temperature + " degrees Celsius. Is it raining? " + isRaining);
+   ```
+   Output:
+   ```
+   The Car has 4 wheels.
+   ```
 
 3. **Naming Practice**
-  Create variable names using the appropriate naming conventions for the following descriptions:
+   Create variable names using the appropriate naming conventions for the following descriptions:
 
-  - Number of students in a class.
-  - The title of a book.
-  - Whether a door is open or not.
-  - The speed of a vehicle.
+   - Number of students in a class.
+   - The title of a book.
+   - Whether a door is open or not.
+   - The speed of a vehicle.
 
-  ```java
-  int numberOfStudents; // Number of students in a class
-  String bookTitle;     // Title of a book
-  boolean isDoorOpen;   // Whether a door is open or not
-  double vehicleSpeed;  // Speed of a vehicle
-  ```
+   ```java
+   int numberOfStudents; // Number of students in a class
+   String bookTitle;     // Title of a book
+   boolean isDoorOpen;   // Whether a door is open or not
+   double vehicleSpeed;  // Speed of a vehicle
+   ```
 
 4. **Type Conversion**
-  Write a program where you need to convert a `float` to an `int` and concatenate a number with a `String`.
-  ```java
-  float productPrice = 19.99f;
-  int price = (int) productPrice;
-  String message = "The price is: " + price;
-  System.out.println(message);
-  ```
+   Write a program where you need to convert a `float` to an `int` and concatenate a number with a `String`.
+   ```java
+   float productPrice = 19.99f;
+   int price = (int) productPrice;
+   String message = "The price is: " + price;
+   System.out.println(message);
+   ```
 
 **Note:** These exercises are designed to reinforce the concepts outlined in the study material. Ensure you test your code as you go to see the output and understand how Java works with different data types and variables.
