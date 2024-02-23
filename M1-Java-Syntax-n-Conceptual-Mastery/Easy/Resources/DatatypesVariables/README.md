@@ -121,3 +121,5 @@ In Java, there are two main data type categories: primitive and reference.
    </details>
 
 **Note:** These exercises are designed to reinforce the concepts outlined in the study material. Ensure you test your code as you go to see the output and understand how Java works with different data types and variables.
+
+Next Topic: [Operators and Expressions](../OperatorsExpressions/README.md)

@@ -173,3 +173,7 @@ int result = (10 > 5) ? 1 : 0; // result is assigned 1
 ```
 
 **Note:** Understanding and using Java operators is crucial for programming logic and algorithms in Java. Operators allow you to perform different kinds of operations on variables and values, enabling complex decision-making and calculation in your programs.
+
+Learn to Observe Code Reading Problems on [Operators and Epressions](../../../Medium/Resources/OperatorsExpressions/README.md)
+
+Next Topic: [Methods](../Methods/README.md)
