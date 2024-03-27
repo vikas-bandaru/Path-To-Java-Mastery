@@ -166,3 +166,5 @@ Now, let's put your skills to the test. Try to determine the output of these exp
    </details>
 
 Understanding these tricky parts of Java operators and expressions will enhance your ability to write and analyze Java code effectively. Remember, the key to mastering these concepts is practice and reviewing real code examples.
+
+[Go back and read Concepts](../../../../M1-Java-Syntax-n-Conceptual-Mastery/Easy/README.md)
